@@ -14,7 +14,7 @@ cur = conn.cursor()
 # """)
 # conn.commit()
 
-bot = telebot.TeleBot("5344280242:AAEvntH7F66HRMyfSd5X8bKgP0X38RzfWbk")
+bot = telebot.TeleBot("ApiKey")
 
 clear = '"\'-*\\= '
 
